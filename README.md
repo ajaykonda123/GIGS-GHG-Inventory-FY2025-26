@@ -7,7 +7,7 @@ This is a **training-based sustainability portfolio case study** developed to de
 
 ## Dashboard preview
 
-![GIGS GHG Inventory Dashboard](./dashboard.svg)
+![GIGS GHG Inventory Dashboard](./images/GHG_Inventory_Dashboard_FY2025-26.jpeg)
 
 ## Project objective
 
@@ -89,7 +89,7 @@ The workbook contains:
 
 - [GHG Inventory Excel Workbook](./GIGS_GHG_Inventory_FY2025-26.xlsx)
 - [Carbon Footprint Report PDF](./Ajay_Konda_Carbon_Footprint_Report_GIGS_Manufacturing_FY2025-26_pdf.pdf)
-- [Dashboard Preview](./dashboard.svg)
+- [Dashboard Preview](./images/GHG_Inventory_Dashboard_FY2025-26.jpeg)
 
 ## Skills demonstrated
 
