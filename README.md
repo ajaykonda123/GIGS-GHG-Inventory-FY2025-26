@@ -5,6 +5,10 @@ This is a **training-based sustainability portfolio case study** developed to de
 
 > **Source transparency:** The activity data and exercise emission factors were provided through a **MAESA Foundation carbon-footprint training exercise**. The Excel calculation model, Scope classification, selected Scope 3 categorisation, hotspot analysis, dashboard, methodology documentation, and recommendations were developed as part of this portfolio project.
 
+## Dashboard preview
+
+![GIGS GHG Inventory Dashboard](./dashboard.svg)
+
 ## Project objective
 
 The objective was to calculate and analyse the annual greenhouse gas footprint of a manufacturing company across:
@@ -85,6 +89,7 @@ The workbook contains:
 
 - [GHG Inventory Excel Workbook](./GIGS_GHG_Inventory_FY2025-26.xlsx)
 - [Carbon Footprint Report PDF](./Ajay_Konda_Carbon_Footprint_Report_GIGS_Manufacturing_FY2025-26_pdf.pdf)
+- [Dashboard Preview](./dashboard.svg)
 
 ## Skills demonstrated
 
